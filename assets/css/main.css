@@ -164,7 +164,7 @@ p {
   background: var(--recipe-separate-color);
 }
 
-@media (max-width: 375px) {
+@media (max-width: 576px) {
   .recipe {
     padding: 0;
     width: 100%;
